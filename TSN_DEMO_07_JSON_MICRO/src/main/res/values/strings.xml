@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZSA15_Lab7</string>
+    <string name="loading">загрузка данных…</string>
+    <string name="update">ОБНОВИТЬ</string>
+    <string name="not_data">нет данных…</string>
+    <string name="error">Error!</string>
+</resources>
